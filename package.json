@@ -1,9 +1,9 @@
 {
-  "name": "webpack-ts-template",
+  "name": "three-template",
   "version": "1.0.0",
-  "description": "webpack, babel, and typescript template",
+  "description": "webpack, babel, typescript, threejs, ammojs, and exponent-ts template",
   "scripts": {
-    "build": "npx webpack"
+    "build": "webpack"
   },
   "keywords": [
     "webpack",
